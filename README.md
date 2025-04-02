@@ -1,2 +1,1 @@
-# react-aria-demo
-React-Aria
+# Readme

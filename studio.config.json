@@ -1,0 +1,45 @@
+{
+ "packages": {
+  "dir": "",
+  "menu": [
+   "introduction",
+   [
+    "tokens",
+    [
+     "typography",
+     "colors",
+     "spacing",
+     "elevation",
+     "border-radius",
+     "transition",
+     "z-index",
+     "all"
+    ]
+   ],
+   [
+    "components",
+    [
+     "button",
+     "switch",
+     "select",
+     "ba",
+     "banner"
+    ]
+   ],
+   [
+    "dockit",
+    [
+     "mdx-layout",
+     "story-layout",
+     "story-layout"
+    ]
+   ]
+  ]
+ },
+ "dependencies": {
+  "autoInstall": false
+ },
+ "doc": {
+  "markdownEngine": "mdjs"
+ }
+}
